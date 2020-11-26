@@ -1,0 +1,20 @@
+maakunta;kaupunki;osoite
+Uusimaa;Helsinki;Pohjoisesplanadi 11-13, 00170 Helsinki
+Varsinais-Suomi;Turku;Aurakatu 2, 20100 Turku
+Satakunta;Pori;Hallituskatu 12, 28100 Pori
+Häme, Kantahäme;Hämeenlinna;Palokunnankatu 16, 13100 Hämeenlinna
+Pirkanmaa;Tampere;Aleksis Kiven katu 14-16 C, 33101 Tampere
+Päijät-Häme;Lahti;Harjukatu 31, 15100 Lahti
+Kymenlaakso;Kotka;Kustaankatu 2, 48100 Kotka
+Etelä-Karjala;Lappeenranta;Villimiehenkatu 1, 53100 Lappeenranta
+Etelä-Savo;Mikkeli;Maaherrankatu 9, 50100 Mikkeli
+Pohjois-Savo;Kuopio;Tulliportinkatu 31, 70110 Kuopio
+Pohjois-Karjala;Joensuu;Rantakatu 20, 80100 Joensuu
+Keski-Suomi;Jyväskylä;Vapaudenkatu 32, 40100 Jyväskylä
+Etelä-Pohjanmaa;Seinäjoki;Kirkkokatu 6, 60100 Seinäjoki
+Pohjanmaa;Vaasa;Senaatinkatu 1, 65100 Vaasa
+Keski-Pohjanmaa;Kokkola;Kauppatori 5, 67100 Kokkola
+Pohjois-Pohjanmaa;Oulu;Kirkkokatu 2a, 90100 Oulu
+Kainuu;Kajaani;Pohjolankatu 13, 87100 Kajaani
+Lappi;Rovaniemi;Hallituskatu 7, 96100 Rovaniemi
+Ahvenanmaa;Maarianhamina;Torggatan, Mariehamn 22100
