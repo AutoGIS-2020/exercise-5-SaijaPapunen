@@ -73,9 +73,15 @@ Create a nice interactive map using the skills you leared in lesson 5: interacti
 For both maps, think a bit about the audience of the map, and pay attention to your cartographic choices. Check out [this blog post for further hints on creating good maps](https://www.gislounge.com/ten-things-to-consider-when-making-a-map/). 
   
   
-  
-  
-  
+## Exercise 5 grade and feedback: 20.0 / 20.0 points
+### Grader
+- sonjakoivisto
+### Problem scores
+- Problem 1: 10.0 / 10.0 
+- Problem 2: 10.0 / 10.0 
+- Problem 3: :sunny: / 0.0
+### Comments
+Very interesting maps that have involved lots of data processing! Good idea to compare two maps as subplots and add the graphs to the last static figure. Quite interesting results as well like the high employment rate of Maarianhamina. The data processing for static map is a very good basis for final assignment also if you want to continue along the same lines. To brush up your maps even more, next you could start thinking of adding a scalebar and north arrow.
   
   
   
